@@ -1,0 +1,3 @@
+[submodule "lib/sparsex"]
+	path = lib/sparsex
+	url = https://github.com/gagiuntoli/sparsex.git
